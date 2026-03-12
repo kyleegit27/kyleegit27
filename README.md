@@ -1,7 +1,7 @@
 ## ABOUT ME 👋
 
-- 🔭 I’m currently working on psychology research and how to reduce carbon footprint.
-- 🌱 I’m currently learning VS code and puppy training.
+- 🔭 I’m currently working on ds projects and how to bake the best chocolate chip cookie.
+- 🌱 I’m currently learning about website-building and moving to Arlington. 
 - 💬 Ask me about running, nutrition, and UVA.
-- ⚡ Fun fact: I'm running the Richmond Marathon this year.
+- ⚡ Fun fact: I'm getting into triathlons. 
 - 💛 I love the Earth.
